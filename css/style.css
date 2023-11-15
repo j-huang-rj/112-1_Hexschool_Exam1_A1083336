@@ -141,3 +141,217 @@ table {
 *:after {
     box-sizing: border-box;
 }
+
+.header {
+    width: 1920px;
+    height: 80px;
+    background-color: #AA0601;
+}
+
+.header .link{
+    display: inline-block;
+    margin-left: 724px;
+    /* margin-top: 30px; */
+    /* margin-bottom: 30px; */
+}
+
+/* .header a {
+    margin-right: 25px;
+} */
+
+/* .header a:hover {
+
+} */
+
+.header .logo {
+    display: inline-block;
+    width: 80px;
+    height: 72px;
+    margin-left: 312px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+/* .header .logo a {
+    margin-right: 25px;
+} */
+
+.header a {
+    margin-right: 64px;
+    text-align: left;
+    font: normal normal normal 20px/30px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.header img {
+    width: 80px;
+    height: 48.57px;
+    margin-top: 12px;
+    margin-bottom: 11.43px;
+}
+
+.content .main_board {
+    width: 1920px;
+    height: 787px;
+}
+
+.content .main_board img {
+    width: 1920px;
+    height: 787px;
+}
+
+.content .main_board .title {
+    float: inherit;
+    font: normal normal normal 36px/54px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #650300;
+    opacity: 1;
+}
+
+.content .intro {
+    width: 1920px;
+    height: 488px;
+}
+
+.content .intro .title {
+    text-align: center;
+    margin-top: 80px;
+    font: normal normal bold 48px/72px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #650300;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.content .intro .block_wrap {
+    text-align: center;
+    margin-top: 32px;
+}
+
+.content .intro .block_wrap .block {
+    display: inline-block;
+    text-align: center;
+    margin-right: 24px;
+    width: 306px;
+}
+
+.content .intro .block_wrap .block img {
+    width: 83.33px;
+    height: 83.33px;
+    margin-bottom: 24px;
+}
+
+.content .intro .block_wrap .block .title {
+    margin-top: 0px;
+    margin-bottom: 8px;
+    font: normal normal bold 24px/36px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #650300;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.content .intro .block_wrap .block .desc {
+    text-align: left;
+    height: 72px;
+    font: normal normal normal 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.content .intro .block_wrap2 {
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 80px;
+}
+
+.content .intro .block_wrap2 .block {
+    display: inline-block;
+    text-align: center;
+    margin-right: 24px;
+    width: 416px;
+}
+
+.content .intro .block_wrap2 .block img {
+    width: 416px;
+    height: 416px;
+    margin-bottom: 8px;
+}
+
+.content .intro .block_wrap2 .block p {
+    font: italic normal 900 48px/72px Roboto;
+    letter-spacing: 0px;
+    color: #AA0601;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.content .intro .board2 {
+    width: 1920px;
+    height: 608px;
+    margin-bottom: 80px;
+}
+
+.content .intro .board2 img {
+    width: 1920px;
+    height: 608px;
+}
+
+.content .intro .title3 {
+    text-align: center;
+    font: normal normal bold 48px/72px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #650300;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.content .intro .block_wrap3 {
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 80px;
+}
+
+.content .intro .block_wrap3 .block {
+    display: inline-block;
+    text-align: center;
+    margin-right: 24px;
+    width: 306px;
+}
+
+.content .intro .block_wrap3 .block img {
+    width: 306px;
+    height: 306px;
+    margin-bottom: 16px;
+}
+
+.content .intro .block_wrap3 .block .name {
+    text-align: left;
+    font: normal normal medium 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-bottom: 8px;
+}
+
+.content .intro .block_wrap3 .block .desc {
+    text-align: left;
+    font: normal normal normal 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-bottom: 72px;
+}
+
+@media screen and (max-device-width: 768px){
+    /* CSS內容 */
+  }
+
+@media screen and (max-device-width: 375px){
+    /* CSS內容 */
+}
